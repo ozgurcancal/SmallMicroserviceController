@@ -1,6 +1,7 @@
 #folders
 /documentation/
 /build/
+/src/oldRest
 
 # Prerequisites
 *.d
