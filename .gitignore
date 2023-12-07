@@ -3,6 +3,10 @@
 /build/
 /src/oldRest
 
+# Generated files
+/cmake-build-debug
+*.idea
+
 # Prerequisites
 *.d
 
